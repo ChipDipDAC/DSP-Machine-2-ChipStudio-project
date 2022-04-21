@@ -1,0 +1,78 @@
+Text "* Sample Rate = 44100"
+Text "* Filter 1 Treble Shelf 4000 Hz Fc -6,0 dB"
+Text "* Filter 2 Treble Shelf 4000 Hz Fc -5,0 dB"
+Text "* Filter 3 Treble Shelf 4000 Hz Fc -4,0 dB"
+Text "* Filter 4 Treble Shelf 4000 Hz Fc -3,0 dB"
+Text "* Filter 5 Treble Shelf 4000 Hz Fc -2,0 dB"
+Text "* Filter 6 Treble Shelf 4000 Hz Fc -1,0 dB"
+Text "* Filter 7 Treble Shelf 4000 Hz Fc 0,5 dB"
+Text "* Filter 8 Treble Shelf 4000 Hz Fc 1,0 dB"
+Text "* Filter 9 Treble Shelf 4000 Hz Fc 2,0 dB"
+Text "* Filter 10 Treble Shelf 4000 Hz Fc 3,0 dB"
+
+Text "* BQ: H(z) = (N0 + 2*N1/z + N2/(z2)) / (8388608 - 2*D1/z - D2/(z2))"
+Text "* Filter Coefficients in format N0, N1, N2, D1, D2"
+
+Text "* 1O: H(z) = (N0 + N1/z) / (8388608 - D1/z)"
+Text "* Filter Coefficients in format N0, N1, D1"
+
+Text "* Filter 1 BQ "
+0x497725
+0xD80A48
+0x1C96AC
+0x553CDB
+0xBF63E7
+Text "* Filter 2 BQ "
+0x509074
+0xD33504
+0x202BE5
+0x542899
+0xC0886B
+Text "* Filter 3 BQ "
+0x585FB2
+0xCDE1A9
+0x242421
+0x52FB85
+0xC1C1D0
+Text "* Filter 4 BQ "
+0x60F1F8
+0xC7F681
+0x289542
+0x51C79A
+0xC2FC90
+Text "* Filter 5 BQ "
+0x6A5A14
+0xC16387
+0x2D8CE7
+0x508CC5
+0xC4386B
+Text "* Filter 6 BQ "
+0x74AC98
+0xBA171C
+0x331A23
+0x4F4AF6
+0xC57520
+Text "* Filter 7 BQ "
+0x7FFFFF
+0xB15894
+0x39EC4B
+0x4D5B09
+0xC75129
+Text "* Filter 8 BQ "
+0x7FFFFF
+0xB0B50A
+0x3A8AE0
+0x4CB22D
+0xC7EFF5
+Text "* Filter 9 BQ "
+0x7FFFFF
+0xAF733B
+0x3BC795
+0x4B5B19
+0xC92D80
+Text "* Filter 10 BQ "
+0x7FFFFF
+0xAE3866
+0x3D0370
+0x49FCD8
+0xCA6AB7

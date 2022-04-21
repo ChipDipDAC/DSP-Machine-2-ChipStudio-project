@@ -1,0 +1,78 @@
+Text "* Sample Rate = 44100"
+Text "* Filter 1 Bass Shelf 200 Hz Fc -4,0 dB"
+Text "* Filter 2 Bass Shelf 200 Hz Fc -3,0 dB"
+Text "* Filter 3 Bass Shelf 200 Hz Fc -2,0 dB"
+Text "* Filter 4 Bass Shelf 200 Hz Fc -1,0 dB"
+Text "* Filter 5 Bass Shelf 200 Hz Fc 0,0 dB"
+Text "* Filter 6 Bass Shelf 200 Hz Fc 1,0 dB"
+Text "* Filter 7 Bass Shelf 200 Hz Fc 2,0 dB"
+Text "* Filter 8 Bass Shelf 200 Hz Fc 3,0 dB"
+Text "* Filter 9 Bass Shelf 200 Hz Fc 4,0 dB"
+Text "* Filter 10 Bass Shelf 200 Hz Fc 5,0 dB"
+
+Text "* BQ: H(z) = (N0 + 2*N1/z + N2/(z2)) / (8388608 - 2*D1/z - D2/(z2))"
+Text "* Filter Coefficients in format N0, N1, N2, D1, D2"
+
+Text "* 1O: H(z) = (N0 + N1/z) / (8388608 - D1/z)"
+Text "* Filter Coefficients in format N0, N1, D1"
+
+Text "* Filter 1 BQ "
+0x7F6801
+0x82E1A8
+0x7AE958
+0x7D1B52
+0x85A89A
+Text "* Filter 2 BQ "
+0x7F8E0C
+0x82CD6B
+0x7AED06
+0x7D3053
+0x858068
+Text "* Filter 3 BQ "
+0x7FB409
+0x82B9C3
+0x7AEFA7
+0x7D44BC
+0x85594D
+Text "* Filter 4 BQ "
+0x7FDA02
+0x82A6AF
+0x7AF13B
+0x7D5891
+0x853341
+Text "* Filter 5 BQ "
+0x7FFFFF
+0x82942F
+0x7AF1B8
+0x7D6BDA
+0x850E36
+Text "* Filter 6 BQ "
+0x7FFFFF
+0x82A76F
+0x7ACCBF
+0x7D7E8F
+0x84EA3F
+Text "* Filter 7 BQ "
+0x7FFFFF
+0x82BB44
+0x7AA6B3
+0x7D90C0
+0x84C73A
+Text "* Filter 8 BQ "
+0x7FFFFF
+0x82CFAD
+0x7A7F98
+0x7DA26D
+0x84A529
+Text "* Filter 9 BQ "
+0x7FFFFF
+0x82E4AE
+0x7A5766
+0x7DB39A
+0x848407
+Text "* Filter 10 BQ "
+0x7FFFFF
+0x82FA4C
+0x7A2E15
+0x7DC44A
+0x8463CD

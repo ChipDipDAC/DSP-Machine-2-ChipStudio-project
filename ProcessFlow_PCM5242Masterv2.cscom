@@ -1,0 +1,19 @@
+#Begin FileDescription
+Version[0.97]
+#End FileDescription
+#Begin ComboSettings
+[Controller;RDC2_0051]
+[ComboType;0]
+[ComboSubType;2]
+[DoNotReboot;True]
+#End ComboSettings
+#Begin ComboParts
+[C:\Users\oleg.tetushkin\Documents\ProcessFlow_PCM5242Masterv2\Flow_Stereo_44_24.cspro]
+[C:\Users\oleg.tetushkin\Documents\ProcessFlow_PCM5242Masterv2\Flow_Stereo_48_24.cspro]
+[C:\Users\oleg.tetushkin\Documents\ProcessFlow_PCM5242Masterv2\Flow_Stereo_96_24.cspro]
+[C:\Users\oleg.tetushkin\Documents\ProcessFlow_PCM5242Masterv2\Flow_Stereo_192_24.cspro]
+[]
+[]
+[C:\Users\oleg.tetushkin\Documents\ProcessFlow_PCM5242Masterv2\Flow_Stereo_88_24.cspro]
+[C:\Users\oleg.tetushkin\Documents\ProcessFlow_PCM5242Masterv2\Flow_Stereo_176_24.cspro]
+#End ComboParts
